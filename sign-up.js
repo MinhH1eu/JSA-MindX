@@ -1,4 +1,4 @@
-console.log("sign-up nè");
+
 
 var users = JSON.parse(localStorage.getItem("users")) || [];
 
